@@ -4,7 +4,7 @@
 <a href="https://github.com/Miguis722">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A32C&center=true&vCenter=true&random=false&width=440&height=45&lines=Backend+web+and+mobile+app+developer;Currently+learning" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguis722&label=Profile%20views&color=0e75b6&style=flat" alt="miguis722" /> </p>
-
+<-- https://readme-typing-svg.demolab.com/demo/ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguis722" alt="miguis722" /></a> </p>
 
 - 🌱 I’m currently learning **Courses, languages of programming.**
